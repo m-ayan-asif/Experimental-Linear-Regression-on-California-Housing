@@ -1,5 +1,5 @@
 # Experimental Linear Regression on California Housing
-
+by Muhammad Ayan Asif, 22i-1097
 **Short description.**  
 Reproducible experiments analyzing the `sklearn.datasets.fetch_california_housing` dataset with Linear Regression and SGD-based regressors. The project contains EDA, single- and multi-feature experiments, polynomial feature expansions (degree 2 and 3), diagnostics (residuals, influence), and a LaTeX report summarizing conclusions and recommendations.
 
